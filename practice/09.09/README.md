@@ -4,7 +4,9 @@
 Выполнил студент: Куценко Игорь Олегович
 Группа: ЭФМО 02-24
 
-![ER-диаграмма веб-приложения для изучения китайского языка.] (https://github.com/Tengu-64/TIP/blob/main/practice/09.09/db.png)
+ER-диаграмма веб-приложения для изучения китайского языка. 
+
+![Image alt](https://github.com/Tengu-64/TIP/blob/main/practice/09.09/db.png)
 
 
 # User:
