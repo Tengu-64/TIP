@@ -5,4 +5,4 @@
 Группа: ЭФМО 02-24
 
 use-case диаграмма веб-приложения для изучения китайского языка.
-![Image alt] (./use-case.png)
+![Image alt] (https://github.com/Tengu-64/TIP/blob/main/practice/16.09/use-case.png)
