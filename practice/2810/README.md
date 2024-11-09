@@ -23,7 +23,7 @@
 /baskets - get, все корзины
 /baskets/:id - получение корзины по id
 
-# Результат работы Postman
+# Результат работы Postman:
 
 ![Image alt](https://github.com/Tengu-64/TIP/blob/main/practice/2810/postman/products.png)
 
