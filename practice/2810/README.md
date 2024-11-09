@@ -8,11 +8,11 @@
 
 # Маршруты:
 
-/products  - get, получение всех товаров            
-/products/:id - get, получение товара по id
-/products/delete/:id" - delete, удаление товара по id
-/products/create - post, создание нового товара
-/products/put/:id - put, изменение товара по id
+/products  - get, получение всех товаров <br/>           
+/products/:id - get, получение товара по id <br/>
+/products/delete/:id" - delete, удаление товара по id <br/>
+/products/create - post, создание нового товара <br/>
+/products/put/:id - put, изменение товара по id <br/>
 
 /category - get, все категории
 /category/:id" - get, получение категории по id
