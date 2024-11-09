@@ -24,9 +24,13 @@
 /baskets/:id - получение корзины по id
 
 ![Image alt](https://github.com/Tengu-64/TIP/blob/main/practice/2810/postman/products.png)
+
 ![Image alt](https://github.com/Tengu-64/TIP/blob/main/practice/2810/postman/getProductsId.png)
+
 ![Image alt](https://github.com/Tengu-64/TIP/blob/main/practice/2810/postman/productsCreate.png)
+
 ![Image alt](https://github.com/Tengu-64/TIP/blob/main/practice/2810/postman/productsPut.png)
+
 ![Image alt](https://github.com/Tengu-64/TIP/blob/main/practice/2810/postman/productsDelete.png)
 
 ![Image alt](https://github.com/Tengu-64/TIP/blob/main/practice/2810/postman/category.png)
