@@ -8,7 +8,7 @@
 
 # Маршруты:
 
-/products - get, получение всех товаров <br/>           
+/products - get, получение всех товаров           
 /products/:id - get, получение товара по id <br/>
 /products/delete/:id" - delete, удаление товара по id <br/>
 /products/create - post, создание нового товара <br/>
