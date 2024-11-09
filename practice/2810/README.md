@@ -14,14 +14,14 @@
 /products/create - post, создание нового товара <br/>
 /products/put/:id - put, изменение товара по id <br/>
 
-/category - get, все категории
-/category/:id" - get, получение категории по id
-/category/:id - delete, удаление категории по id 
-/category/create - post, создание нового категории
-/category/put/:id" - put, изменение категории по id
+/category - get, все категории <br/>
+/category/:id" - get, получение категории по id <br/>
+/category/:id - delete, удаление категории по id  <br/>
+/category/create - post, создание нового категории <br/>
+/category/put/:id" - put, изменение категории по id <br/>
 
-/baskets - get, все корзины
-/baskets/:id - получение корзины по id
+/baskets - get, все корзины <br/>
+/baskets/:id - получение корзины по id <br/>
 
 # Результат работы Postman:
 
