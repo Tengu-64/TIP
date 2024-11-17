@@ -5,7 +5,7 @@
 Выполнил студент: Куценко Игорь Олегович
 
 Группа: ЭФМО-02-24
-
+```
 CREATE TABLE users (
        id SERIAL PRIMARY KEY,
        username VARCHAR(50) NOT NULL UNIQUE,
@@ -87,4 +87,4 @@ CREATE TABLE productCategories (
        categoryId INT REFERENCES categories(categoryId) ON DELETE CASCADE,
        PRIMARY KEY (product_id, category_id)
    );
-
+```
